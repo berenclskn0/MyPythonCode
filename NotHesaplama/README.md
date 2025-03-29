@@ -7,7 +7,9 @@ Bu proje, öğrenci notlarını hesaplayan ve her öğrenci için harf notunu be
 Dosya Açıklamaları:
 
 Not_Hesaplama.py: Not hesaplama işlemini yapan ana Python dosyası.
+  
   Girdi: notlar.txt dosyasındaki veriler.
+  
   Çıktı: Harf notlarıyla birlikte notlar2.txt dosyası.
 
 notlar.txt: Her öğrencinin isimlerini ve ders notlarını içerir. (Format: Elif Yılmaz, 85, 92, 100)
@@ -23,6 +25,7 @@ Nasıl Kullanılır?
 2.Python'u bilgisayarınıza kurun (eğer yüklü değilse).
 
 3.Terminal veya komut istemcisine giderek şu komutu çalıştırın:
+  
   python Not_Hesaplama.py
 
 4.Çıktıları notlar2.txt dosyasında bulabilirsiniz.
